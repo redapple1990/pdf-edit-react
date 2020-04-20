@@ -10,3 +10,5 @@ Install method
 6. Pick up a date and drop down somewhere in PDF file
 
 Please see attached screenshot.
+
+https://github.com/coolenginner/pdf-edit-react/blob/master/Untitled.png
